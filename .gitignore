@@ -1,7 +1,7 @@
-./.github
+.github
 
 
-./.vscode
+.vscode
 
 
-./node_module
+node_modules
